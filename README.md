@@ -16,3 +16,9 @@
 - Functions
 - Classes
 
+### [Numpy](./numpy.ipynb)
+- Arrays
+- Array indexing
+- Datatypes
+- Array math
+- Broadcasting
