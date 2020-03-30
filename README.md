@@ -22,3 +22,8 @@
 - Datatypes
 - Array math
 - Broadcasting
+
+### [SciPy](./scipy.ipynb)
+- Image operations
+- MATLAB files(생략)
+- Distance between points
