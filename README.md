@@ -25,5 +25,9 @@
 
 ### [SciPy](./scipy.ipynb)
 - Image operations
-- MATLAB files(생략)
 - Distance between points
+
+### [Matplotlib](./matplotlib.ipynb)
+- Plotting
+- Subplots
+- Images
